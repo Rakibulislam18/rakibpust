@@ -5,7 +5,7 @@ A Curious Learner | Full-Stack Engineer | MERN Stack Developer
 
 ### Here are my skills and strengths:
 
-✓  Expert in React <br/>
+✓  Expert in React Framework <br/>
 ✓  Expert in UX/UI design <br/>
 ✓  Expert in Robust and Clean server development (using Node.js) <br/>
 ✓  Expert in Express.js  <br/>
