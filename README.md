@@ -12,7 +12,7 @@ A Curious Learner | Full-Stack Engineer | MERN Stack Developer
 ✓  Expert in database design, development, optimization, and migration <br/>
    (PostgreSQL, MySQL, MongoDB)<br/>
 ✓  Experienced in ( WebSocket, WebRTC ) for real-time client and server applications <br/>
-✓  Experienced in React Framework & SvelteKit Framework  and some knowledge in ( TypeScript )<br/>
+✓  Experienced in React.js Framework & Next.js Framework  and some knowledge in ( TypeScript )<br/>
 ✓  Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
    Nginx, Kubernetes )<br/>
 <div align="center">
