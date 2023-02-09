@@ -3,7 +3,7 @@
 A Curious Learner | Full-Stack Engineer | MERN Stack Developer
 </h1>
  -->
-### Here are my skills and strengths:
+<!-- ### Here are my skills and strengths: -->
 
 <!-- ✓  Expert in React Framework <br/>
 ✓  Expert in UX/UI design <br/>
@@ -16,7 +16,7 @@ A Curious Learner | Full-Stack Engineer | MERN Stack Developer
 ✓  Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
    Nginx, Kubernetes )<br/> -->
 <div align="center">
-  <a href="https://github.com/rakibpust">
+  <a href="https://github.com/Rakibul">
 <!--     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=rakibpust&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em"
