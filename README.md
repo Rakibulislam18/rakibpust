@@ -5,7 +5,7 @@ A Curious Learner | Full-Stack Engineer | MERN Stack Developer
 
 ### Here are my skills and strengths:
 
-✓  Expert in React Framework <br/>
+<!-- ✓  Expert in React Framework <br/>
 ✓  Expert in UX/UI design <br/>
 ✓  Expert in Robust and Clean server development (using Node.js) <br/>
 ✓  Expert in Express.js  <br/>
@@ -14,9 +14,9 @@ A Curious Learner | Full-Stack Engineer | MERN Stack Developer
 ✓  Experienced in ( WebSocket, WebRTC ) for real-time client and server applications <br/>
 ✓  Experienced in React.js Framework & Next.js Framework  and some knowledge in ( TypeScript )<br/>
 ✓  Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
-   Nginx, Kubernetes )<br/>
+   Nginx, Kubernetes )<br/> -->
 <div align="center">
-  <a href="https://github.com/rakibpust">
+  <a href="https://github.com/Rakibul">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=rakibpust&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em"
