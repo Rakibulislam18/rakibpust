@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://github.com/gitsdeepak/gitsdeepak/blob/master/Assets/Hi.gif" width="25px">Hi! Peace Be Upon You , I'm <a href="https://github.com/skshahriarahmedraka">Md Rakibul Islam</a> 🐬 !</h1>
-<h1 align="center">
+<!-- <h1 align="center">
 A Curious Learner | Full-Stack Engineer | MERN Stack Developer
 </h1>
-
+ -->
 ### Here are my skills and strengths:
 
 <!-- ✓  Expert in React Framework <br/>
@@ -16,11 +16,11 @@ A Curious Learner | Full-Stack Engineer | MERN Stack Developer
 ✓  Good understanding of ( Docker, Bash, PowerShell, Git,<br/>
    Nginx, Kubernetes )<br/> -->
 <div align="center">
-  <a href="https://github.com/Rakibul">
-    <img height="180em"
+  <a href="https://github.com/rakibpust">
+<!--     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=rakibpust&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibpust&layout=compact&langs_count=10&theme=dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibpust&layout=compact&langs_count=10&theme=dark" /> -->
 </div>
 
  <div align="center">
